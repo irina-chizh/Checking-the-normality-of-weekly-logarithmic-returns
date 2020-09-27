@@ -1,0 +1,1 @@
+# Checking-the-normality-of-weekly-logarithmic-returns
